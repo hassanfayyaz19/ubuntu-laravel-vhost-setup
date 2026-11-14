@@ -40,7 +40,7 @@ sudo a2enmod php7.4  # or your preferred version
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/ubuntu-laravel-vhost-setup.git
+git clone https://github.com/hassanfayyaz19/ubuntu-laravel-vhost-setup.git
 cd ubuntu-laravel-vhost-setup
 ```
 
@@ -191,3 +191,7 @@ ping projectname.test
 - Automated virtual host creation
 - Local domain configuration
 - Input validation and error handling
+
+## License
+
+MIT License - see [LICENSE](LICENSE) for details.
